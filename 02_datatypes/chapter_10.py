@@ -1,3 +1,4 @@
+# Dictionary
 chai_order = dict(type="Masala Chai", size="large", sugar=2)
 print(f"Chai order: {chai_order}")
 

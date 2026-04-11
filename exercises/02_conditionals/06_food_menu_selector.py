@@ -1,4 +1,4 @@
-# This function will be tested automatically. 
+# This function will be tested automatically.
 # Do not change the function name or parameter type.
 def get_item_price(item: str) -> str:
     # write your code below this line
